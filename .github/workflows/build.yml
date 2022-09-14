@@ -27,7 +27,7 @@ jobs:
       - uses: octokit/request-action@v2.x
         id: get_imgui_beef_tags
         with:
-          route: GET /repos/roguemacro/imgui-beef/git/refs/tags
+          route: GET /repos/roguemacro/imgui-beef-2/git/refs/tags
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
