@@ -1,0 +1,6 @@
+[submodule "cimgui"]
+	path = cimgui
+	url = https://github.com/cimgui/cimgui.git
+[submodule "cimgui-deps"]
+	path = cimgui-deps
+	url = https://github.com/roguemacro/imgui-beef-build-deps
