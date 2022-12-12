@@ -1,6 +1,6 @@
 # Dear ImGui wrapper for the Beef Programming Language 
 
-![Build](https://github.com/RogueMacro/imgui-beef/workflows/Build/badge.svg)
+![Build](https://github.com/RogueMacro/imgui-beef-2/workflows/Build/badge.svg)
 
 ## Building
 
