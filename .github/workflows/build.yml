@@ -66,9 +66,6 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '3.1.x'
       
       - name: Clone submodules
         run: |
@@ -106,7 +103,7 @@ jobs:
           git push origin Windows-Build
 
   merge:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     needs: [compare-tags, windows]
     
     steps:
