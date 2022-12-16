@@ -1,5 +1,5 @@
 // -- GENERATION INFORMATION --
-// Date: 12/16/2022 4:48:22 PM
+// Date: 12/16/2022 16:55:39
 // Constructors: 96
 // Destructors: 75
 // Enums: 72
@@ -3033,7 +3033,6 @@ namespace ImGui
             {
                 this = *CtorImpl();
             }
-            
             [CRepr, Union]
             public struct InputEventUnion0
             {
@@ -3944,7 +3943,6 @@ namespace ImGui
             {
                 this = *CtorImpl(_key, _val_p);
             }
-            
             [CRepr, Union]
             public struct StoragePairUnion0
             {
@@ -4041,7 +4039,6 @@ namespace ImGui
             {
                 this = *CtorImpl(idx, v);
             }
-            
             [CRepr, Union]
             public struct StyleModUnion0
             {
