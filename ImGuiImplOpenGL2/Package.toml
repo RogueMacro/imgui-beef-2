@@ -1,6 +1,6 @@
 [Package]
 Name = "ImGuiImplOpenGL2"
-Version = "1.88.0"
+Version = "1.88.1"
 Description = "OpenGL2 Implementation for ImGui"
 
 [Dependencies]

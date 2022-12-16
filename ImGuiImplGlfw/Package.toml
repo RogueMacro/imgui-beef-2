@@ -1,6 +1,6 @@
 [Package]
 Name = "ImGuiImplGlfw"
-Version = "1.88.0"
+Version = "1.88.1"
 Description = "GLFW Implementation for ImGui"
 
 [Dependencies]
