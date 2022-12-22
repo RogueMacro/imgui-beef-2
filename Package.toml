@@ -4,7 +4,6 @@ Version = "1.88.1"
 Description = "Dear ImGui wrapper for Beef"
 
 [Features]
-Default = ["OpenGL3", "GLFW"]
 OpenGL2 = "ImGuiImplOpenGL2"
 OpenGL3 = "ImGuiImplOpenGL3"
 GLFW = "ImGuiImplGlfw"
